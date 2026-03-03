@@ -29,3 +29,7 @@ API keys are securely stored using environment variables (.env file).
 
 ## Author
 Bavanapriya D
+
+## Deployment Link
+
+Streamlit link: https://intelligent-ai-study-buddy.streamlit.app/
