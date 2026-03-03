@@ -76,7 +76,7 @@ st.title("🚀 AI Study Buddy — Pro Tutor")
 
 st.caption(
 
-"AI Based Intelligent Study Assistant | Internship Final Submission"
+"AI Based Intelligent Study Assistant"
 
 )
 
