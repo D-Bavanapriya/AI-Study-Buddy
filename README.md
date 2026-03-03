@@ -1,20 +1,20 @@
-# 🚀 AI Study Buddy 
+# AI Study Buddy 
 
 An AI-powered intelligent study assistant built using Streamlit and HuggingFace API.
 
 ---
 
-## 📌 Features
-- 🧠 AI Generated Study Notes
-- ⭐ Key Points Extraction
-- 🧩 MCQs Generation
-- 📒 Flashcards
-- 🎯 Exam Strategy Suggestions
-- 🤖 AI Tutor Chat
+##  Features
+- AI Generated Study Notes
+- Key Points Extraction
+- MCQs Generation
+- Flashcards
+- Exam Strategy Suggestions
+- AI Tutor Chat
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - HuggingFace API
@@ -22,10 +22,10 @@ An AI-powered intelligent study assistant built using Streamlit and HuggingFace 
 
 ---
 
-## 🔐 Security
+## Security
 API keys are securely stored using environment variables (.env file).
 
 ---
 
-## 👩‍💻 Author
+## Author
 Bavanapriya D
